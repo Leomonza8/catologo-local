@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Camiseta Básica",
+    "description": "Camiseta 100% algodão, confortável para o dia a dia.",
+    "price": 49.90,
+    "image": "/images/camiseta.jpg",
+    "category": "Roupas"
+  },
+  {
+    "id": "2",
+    "name": "Calça Jeans",
+    "description": "Calça slim fit com lavagem escura.",
+    "price": 129.90,
+    "image": "/images/calca.jpg",
+    "category": "Roupas"
+  },
+  {
+    "id": "3",
+    "name": "Tênis Casual",
+    "description": "Tênis leve e durável para uso diário.",
+    "price": 199.90,
+    "image": "/images/tenis.jpg",
+    "category": "Calçados"
+  },
+  {
+    "id": "4",
+    "name": "Mochila Urbana",
+    "description": "Mochila com compartimento para notebook até 15 polegadas.",
+    "price": 149.90,
+    "image": "/images/mochila.jpg",
+    "category": "Acessórios"
+  },
+  {
+    "id": "5",
+    "name": "Boné Aba Reta",
+    "description": "Boné snapback com bordado frontal.",
+    "price": 59.90,
+    "image": "/images/bone.jpg",
+    "category": "Acessórios"
+  },
+  {
+    "id": "6",
+    "name": "Relógio Minimalista",
+    "description": "Relógio com pulseira de couro e mostrador clean.",
+    "price": 289.90,
+    "image": "/images/relogio.jpg",
+    "category": "Acessórios"
+  }
+]
