@@ -7,12 +7,7 @@ export default function Home() {
       <div className="max-w-5xl mx-auto px-6">
         <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-6">
           {products.map((product) => (
-            <ProductCard
-              key={product.id}
-              name={product.name}
-              price={product.price}
-              image={product.image}
-            />
+            <ProductCard key={product.id} {...product} />
           ))}
         </div>
       </div>
